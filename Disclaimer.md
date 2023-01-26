@@ -10,7 +10,7 @@ Fair use is a use permitted by copyright statute that might otherwise be infring
 
 Non-profit, educational or personal use tips the balance in favor of fair use. 
 
-## FAIR USE DEFINITION:
+## FAIR USE DEFINITION
 
 (Source: http://en.wikipedia.org/wiki/Fair_use)
 
