@@ -37,8 +37,6 @@ In this project I created Desktop application using Java. You can use this appli
 ⚡️ Better real-time data analysis with pie chart and tables\
 ⚡️ And many more features...
 
-To view the demo: **[click here](https://kusal-tharindu.github.io/portfolio/)**
-
 ---
 ## Getting Started 🚀 
 
@@ -179,7 +177,7 @@ The dashboard you get will vary depending on the user type you provide when you 
 - Admin Dashboard
 
 <h2 align="center">
-  <img src="Readme-images/dashboard.gif" alt="Open nbproject via NetBeans"/>
+  <img src="Readme-images/Dashboard.gif" alt="Open nbproject via NetBeans"/>
   <br>
 </h2>
 
@@ -198,8 +196,8 @@ The dashboard you get will vary depending on the user type you provide when you 
 
 - If you are registered as an administrator you can add, update and delete Users.
 
-h2 align="center">
-  <img src="Readme-images/Admin_user_add.png" alt="Open nbproject via NetBeans"/>
+<h2 align="center"> 
+<img src="Readme-images/Admin_user_add.png" alt="Open nbproject via NetBeans"/>
   <br>
 </h2>
 
@@ -207,7 +205,7 @@ h2 align="center">
 
 - You can book the seat through this jframe.
 
-h2 align="center">
+<h2 align="center">
   <img src="Readme-images/issuses.png" alt="Open nbproject via NetBeans"/>
   <br>
 </h2>
@@ -216,7 +214,7 @@ h2 align="center">
 
 -Here, you can search the location.
 
-h2 align="center">
+<h2 align="center">
   <img src="Readme-images/location_search.png" alt="Open nbproject via NetBeans"/>
   <br>
 </h2>
@@ -225,7 +223,7 @@ h2 align="center">
 
 - Here, You can add, update and delete Users.
 
-h2 align="center">
+<h2 align="center">
   <img src="Readme-images/subject add.png" alt="Open nbproject via NetBeans"/>
   <br>
 </h2>
@@ -233,9 +231,10 @@ h2 align="center">
 ---
 ## Authors ✍
 
-- **`Kusal Tharindu`** 
+- **`Kusal Tharindu`**
+- <img src="https://kusal.dtk2globle.com/assets/images/logo/last.png" height="20"/>&nbsp; [- **Kusal Tharindu**]([https://github.com/sasinduKKarunarathna](https://github.com/kusal-tharindu)) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kusal-tharindu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tharindu_kusal) [![GitHub](https://img.shields.io/badge/github-%231DA1F2.svg?logo=github&logoColor=black)](https://github.com/kusal-tharindu)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kusal-tharindu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tharindu_kusal) [![GitHub](https://img.shields.io/badge/github-%231DA1F2.svg?logo=github&logoColor=black)](https://github.com/kusal-tharindu)
 
 ## Wanna read my articles?
 
