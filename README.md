@@ -210,9 +210,9 @@ The dashboard you get will vary depending on the user type you provide when you 
   <br>
 </h2>
 
-###  <span style= "color: #00c1ff">**(8) Location Search Jframe** </span>
+###  <span style= "color: #00c1ff">**(7) Location Search Jframe** </span>
 
--Here, you can search the location.
+- Here, you can search the location.
 
 <h2 align="center">
   <img src="Readme-images/location_search.png" alt="Open nbproject via NetBeans"/>
@@ -244,8 +244,8 @@ The dashboard you get will vary depending on the user type you provide when you 
 ## Contributors 🤝
 
 - <img src="https://avatars.githubusercontent.com/u/123612105?v=4" height="20"/>&nbsp; [Sasindu K Karunarathna](https://github.com/sasinduKKarunarathna)
-- <img src="https://avatars.githubusercontent.com/u/73834027?v=4" height="20"/>&nbsp; [Sasindu K Karunarathna](https://github.com/MalithaAbey)
-- <img src="https://avatars.githubusercontent.com/u/123632527?v=4" height="20"/>&nbsp; [Sasindu K Karunarathna](https://github.com/IMKDilshan)
+- <img src="https://avatars.githubusercontent.com/u/73834027?v=4" height="20"/>&nbsp; [Malitha Abeysinghe](https://github.com/MalithaAbey)
+- <img src="https://avatars.githubusercontent.com/u/123632527?v=4" height="20"/>&nbsp; [IMKDilshan](https://github.com/IMKDilshan)
 
 ---
 
