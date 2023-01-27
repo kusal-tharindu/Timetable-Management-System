@@ -244,6 +244,8 @@ The dashboard you get will vary depending on the user type you provide when you 
 ## Contributors 🤝
 
 - <img src="https://avatars.githubusercontent.com/u/123612105?v=4" height="20"/>&nbsp; [Sasindu K Karunarathna](https://github.com/sasinduKKarunarathna)
+- <img src="https://avatars.githubusercontent.com/u/73834027?v=4" height="20"/>&nbsp; [Sasindu K Karunarathna](https://github.com/MalithaAbey)
+- <img src="https://avatars.githubusercontent.com/u/123632527?v=4" height="20"/>&nbsp; [Sasindu K Karunarathna](https://github.com/IMKDilshan)
 
 ---
 
@@ -276,6 +278,6 @@ Many thanks to all my contributors who helped make this project a reality.
   <a href="https://www.buymeacoffee.com/kusal26" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45px" ></a>
    
 ---
-## Contact Me 💰
+## Contact Me 📞
 If you have any questions about this Privacy Policy, You can contact us:
 - By email: contact@dtk2globle.com
