@@ -10,7 +10,7 @@ Fair use is a use permitted by copyright statute that might otherwise be infring
 
 Non-profit, educational or personal use tips the balance in favor of fair use. 
 
-## FAIR USE DEFINITION..
+## FAIR USE DEFINITION
 
 (Source: http://en.wikipedia.org/wiki/Fair_use)
 
@@ -24,13 +24,13 @@ One of the rights accorded to the owner of copyright is the right to reproduce o
 
 Section 107 contains a list of the various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research.  Section 107 also sets out in four factors to be considered in determining whether or not a particular use is fair: 
 
-1. The purpose and character of the use, including whether such use is of commercial nature or is for nonprofit educational purposes
+1. The purpose and character of the use, including whether such use is of commercial nature or is for nonprofit educational purposes.
 
-2. The nature of the copyrighted work
+2. The nature of the copyrighted work.
 
-3. The amount and substantiality of the portion used in relation to the copyrighted work as a whole
+3. The amount and substantiality of the portion used in relation to the copyrighted work as a whole.
 
-4. The effect of the use upon the potential market for, or value of, the copyrighted work
+4. The effect of the use upon the potential market for, or value of, the copyrighted work.
 
 The distinction between fair use and infringement may be unclear and not easily defined. There is no specific number of words, lines, or notes that may safely be taken without permission. Acknowledging the source of the copyrighted material does not substitute for obtaining permission.
 
